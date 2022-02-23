@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+//comentario para Github
 
 import mx.tecnm.piedad.dao.PlanJDBC;
 import mx.tecnm.piedad.models.Plan;

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 @RestControllerAdvice
 @RequestMapping("/api/mensajes")
 public class Mensaje {
-	
+	//Hola que tal :)
 	@GetMapping("/hola")
 	public String saludar() {
 		return "Hola WS";		
